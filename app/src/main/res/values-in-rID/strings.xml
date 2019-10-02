@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="imageposter">Gambar Poster</string>
+    <string name="imagebackdrop">Gambar Backdrop</string>
+    <string name="txtsynopsis">Sinopsis</string>
+    <string name="nav_movie">Film</string>
+    <string name="nav_tvshow">Acara TV</string>
+    <string name="nav_language">Ganti Bahasa</string>
+    <string name="nav_fav">Favorit</string>
+    <string name="nocollection">Tidak Ada Koleksi</string>
+    <string name="fav_add">Tambah Favorit</string>
+    <string name="fav_delete">Hapus Favorit</string>
+    <string name="added">ditambahkan ke Favorit</string>
+    <string name="deleted">dihapus dari Favorit</string>
+    <string name="nav_setting">Pengaturan</string>
+    <string name="nav_daily">Pengingat Harian</string>
+    <string name="nav_daily_desc">anda akan menerima notifikasi untuk melihat isi katalog film setiap hari pukul 7 pagi.</string>
+    <string name="daily_title">Pengingat hari ini</string>
+    <string name="daily_message">daftar film sedang menunggumu, cek sekarang.</string>
+    <string name="nav_release">Pengingat Rilis</string>
+    <string name="nav_release_desc">anda akan menerima notifikasi daftar film yang rilis pada hari ini setiap pukul 8 pagi.</string>
+    <string name="release_title">Film rilis hari ini</string>
+    <string name="release_message">film telah rilis hari ini, cek sekarang.</string>
+    <string name="release_empty">tidak ada film rilis hari ini.</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="search_tvshow">Cari Acara TV</string>
+    <string name="nav_search">Cari</string>
+</resources>
